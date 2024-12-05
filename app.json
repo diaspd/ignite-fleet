@@ -13,13 +13,15 @@
       "backgroundColor": "#202024"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.peedrodr.ignitefleet"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.peedrodr.ignitefleet"
     },
     "web": {
       "favicon": "./assets/favicon.png"
